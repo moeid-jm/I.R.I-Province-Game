@@ -1,5 +1,5 @@
-# I.R.R-Province-Game
-I.R.R Province Game written in python
+# I.R.I-Province-Game
+I.R.I Province Game written in python
 
 
 # Introduction
